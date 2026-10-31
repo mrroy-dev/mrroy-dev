@@ -133,29 +133,21 @@
 ### 📊 Live GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrroy-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrroy-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy-dev&hide_border=true&background=0d1117&ring=2dd4bf&fire=38bdf8&currStreakLabel=2dd4bf&sideLabels=94a3b8&sideNums=e2e8f0&currStreakNum=2dd4bf" height="165" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=94a3b8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrroy-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=94a3b8" alt="Top Languages" />
 </div>
 
 ---
 
-### 📈 Activity & Contribution Graph
+### 🐍 Contribution Activity Graph
 
 <div align="center">
-  <!-- Real-time dynamic activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrroy-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2dd4bf&line=38bdf8&point=a78bfa&area=true" width="100%" alt="Live Contribution Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/mrroy-dev/mrroy-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
