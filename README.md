@@ -2,11 +2,11 @@
 
   <!-- Header Banner / Avatar / Title -->
   <a href="https://github.com/mrroy-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&random=false&width=650&lines=%E2%86%92+console.log(%22Hello%2C+World!%22);%E2%86%92+I'm+Ritik+Kumar+(%40mrroy-dev);%E2%86%92+Full+Stack+%26+Mobile+Developer;%E2%86%92+MERN+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+Expo;%E2%86%92+Crafting+Scalable+%26+AI-Driven+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&random=false&width=650&lines=%E2%86%92+console.log(%22Hello%2C+World!%22);%E2%86%92+I'm+Ritik+Kumar+(%40mrroy-dev);%E2%86%92+Full+Stack+%26+Mobile+Developer;%E2%86%92+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;%E2%86%92+Flutter+%E2%80%A2+Expo+Mobile+Apps;%E2%86%92+AI+%26+RAG+Driven+Architecture" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Crafting scalable web architectures, cross-platform mobile experiences, and modern AI integrations.</strong>
+    <strong>Crafting scalable web architectures, cross-platform mobile apps (Flutter & Expo), and intelligent AI/RAG solutions.</strong>
   </p>
 
   <!-- Status & Social Badges -->
@@ -14,7 +14,7 @@
     <a href="https://github.com/mrroy-dev">
       <img src="https://img.shields.io/badge/GitHub-mrroy--dev-0d1117?style=for-the-badge&logo=github&logoColor=2dd4bf&labelColor=161b22" alt="GitHub Profile" />
     </a>
-    <a href="https://linkedin.com/in/ritik-kumar-roy0211">
+    <a href="https://www.linkedin.com/in/ritik-kumar-devps/">
       <img src="https://img.shields.io/badge/LinkedIn-Ritik%20Kumar-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=161b22" alt="LinkedIn Profile" />
     </a>
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Mobile%20%7C%20AI-0d1117?style=for-the-badge&logo=codeforces&logoColor=a78bfa&labelColor=161b22" alt="Current Focus" />
@@ -35,10 +35,12 @@
    ---------------
    OS:              Linux / Web / Cloud
    Role:            Full Stack & Mobile Software Developer
-   Core Stack:      React • Node.js • React Native • Next.js
-   Mobile:          React Native • Expo (iOS & Android)
-   Backend & DB:    Express.js • REST APIs • MongoDB • Firebase
-   Focus:           Scalable Architecture, Real-Time Systems, AI Tooling
+   Languages:       JavaScript (ES6+), TypeScript, Python, Dart
+   Core Stack:      React • Next.js • Node.js • Express.js
+   Mobile:          Flutter • Expo (Android & iOS)
+   Backend & DB:    REST APIs • MongoDB • Firebase Auth & Firestore
+   AI & Search:     RAG (Retrieval-Augmented Generation) • Gemini API
+   Focus:           Scalable Web & Mobile Apps, Clean Architecture, AI Systems
    Philosophy:      Clean code, minimal bloat, pixel-perfect UX
 ```
 
@@ -48,12 +50,19 @@
 
 <table>
   <tr>
+    <td align="right" width="20%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=2dd4bf" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=2dd4bf" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python" />
+      <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=2dd4bf" alt="Dart" />
+    </td>
+  </tr>
+  <tr>
     <td align="right" width="20%"><strong>Frontend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=2dd4bf" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=2dd4bf" alt="Next.js" />
-      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=2dd4bf" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=2dd4bf" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=2dd4bf" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-0d1117?style=flat-square&logo=html5&logoColor=2dd4bf" alt="HTML5/CSS3" />
     </td>
@@ -61,7 +70,7 @@
   <tr>
     <td align="right" width="20%"><strong>Mobile</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=38bdf8" alt="React Native" />
+      <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=38bdf8" alt="Flutter" />
       <img src="https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=38bdf8" alt="Expo" />
       <img src="https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=38bdf8" alt="Android" />
       <img src="https://img.shields.io/badge/iOS-0d1117?style=flat-square&logo=apple&logoColor=38bdf8" alt="iOS" />
@@ -80,6 +89,7 @@
   <tr>
     <td align="right" width="20%"><strong>AI & DevOps</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=openai&logoColor=34d399" alt="RAG" />
       <img src="https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=34d399" alt="Gemini API" />
       <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0d1117?style=flat-square&logo=git&logoColor=34d399" alt="Git & GitHub" />
       <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=34d399" alt="Postman" />
@@ -120,7 +130,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Live GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrroy-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
@@ -135,9 +145,17 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 📈 Activity & Contribution Graph
 
 <div align="center">
+  <!-- Real-time dynamic activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrroy-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2dd4bf&line=38bdf8&point=a78bfa&area=true" width="100%" alt="Live Contribution Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/mrroy-dev/mrroy-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
