@@ -1,113 +1,150 @@
-<h1 align="center">Hi, I'm Ritik Kumar</h1>
-<p align="center">Full Stack & Mobile Developer | MERN • Expo • AI</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/mrroy01-bit">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=5eead4" />
+  <!-- Header Banner / Avatar / Title -->
+  <a href="https://github.com/mrroy-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&random=false&width=650&lines=%E2%86%92+console.log(%22Hello%2C+World!%22);%E2%86%92+I'm+Ritik+Kumar+(%40mrroy-dev);%E2%86%92+Full+Stack+%26+Mobile+Developer;%E2%86%92+MERN+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+Expo;%E2%86%92+Crafting+Scalable+%26+AI-Driven+Apps" alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/ritik-kumar-roy0211">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=5eead4" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5EEAD4&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;React+Native+%7C+Expo+Apps;Building+Real+World+Dashboards;AI+Powered+Applications" />
-</p>
+  <p align="center">
+    <strong>Crafting scalable web architectures, cross-platform mobile experiences, and modern AI integrations.</strong>
+  </p>
+
+  <!-- Status & Social Badges -->
+  <p align="center">
+    <a href="https://github.com/mrroy-dev">
+      <img src="https://img.shields.io/badge/GitHub-mrroy--dev-0d1117?style=for-the-badge&logo=github&logoColor=2dd4bf&labelColor=161b22" alt="GitHub Profile" />
+    </a>
+    <a href="https://linkedin.com/in/ritik-kumar-roy0211">
+      <img src="https://img.shields.io/badge/LinkedIn-Ritik%20Kumar-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=161b22" alt="LinkedIn Profile" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Mobile%20%7C%20AI-0d1117?style=for-the-badge&logo=codeforces&logoColor=a78bfa&labelColor=161b22" alt="Current Focus" />
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-0d1117?style=for-the-badge&logo=git&logoColor=34d399&labelColor=161b22" alt="Status" />
+  </p>
+
+</div>
 
 ---
 
-## ✨ Snapshot
+### ⚡ System Telemetry / About Me
 
-- Building scalable web & mobile apps
-- Cross-platform apps with React Native & Expo
-- AI integration into production apps
-- Experience in student dashboards & exam systems
-- Focused on performance & clean architecture
+```bash
+╭─ mrroy-dev@workstation ~
+╰─$ neofetch --developer
+  
+   ritik@mrroy-dev
+   ---------------
+   OS:              Linux / Web / Cloud
+   Role:            Full Stack & Mobile Software Developer
+   Core Stack:      React • Node.js • React Native • Next.js
+   Mobile:          React Native • Expo (iOS & Android)
+   Backend & DB:    Express.js • REST APIs • MongoDB • Firebase
+   Focus:           Scalable Architecture, Real-Time Systems, AI Tooling
+   Philosophy:      Clean code, minimal bloat, pixel-perfect UX
+```
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Matrix & Tooling
 
 <table>
   <tr>
-    <td><strong>Frontend</strong></td>
+    <td align="right" width="20%"><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=5eead4" />
-      <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=5eead4" />
-      <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=5eead4" />
-      <img src="https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=5eead4" />
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=2dd4bf" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=2dd4bf" alt="Next.js" />
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=2dd4bf" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=2dd4bf" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=2dd4bf" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-0d1117?style=flat-square&logo=html5&logoColor=2dd4bf" alt="HTML5/CSS3" />
     </td>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
+    <td align="right" width="20%"><strong>Mobile</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=5eead4" />
-      <img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=5eead4" />
-      <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=5eead4" />
-      <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=5eead4" />
+      <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=38bdf8" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=38bdf8" alt="Expo" />
+      <img src="https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=38bdf8" alt="Android" />
+      <img src="https://img.shields.io/badge/iOS-0d1117?style=flat-square&logo=apple&logoColor=38bdf8" alt="iOS" />
     </td>
   </tr>
   <tr>
-    <td><strong>Mobile</strong></td>
+    <td align="right" width="20%"><strong>Backend & Data</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=5eead4" />
-      <img src="https://img.shields.io/badge/Expo-0f172a?style=for-the-badge&logo=expo&logoColor=5eead4" />
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=a78bfa" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=a78bfa" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=a78bfa" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=a78bfa" alt="Firebase" />
+      <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=a78bfa" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="20%"><strong>AI & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=34d399" alt="Gemini API" />
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0d1117?style=flat-square&logo=git&logoColor=34d399" alt="Git & GitHub" />
+      <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=34d399" alt="Postman" />
+      <img src="https://img.shields.io/badge/Vercel%20%2F%20Netlify-0d1117?style=flat-square&logo=vercel&logoColor=34d399" alt="Vercel / Netlify" />
+      <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=34d399" alt="Linux" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌟 Featured Projects
+### 🚀 Featured Deployments
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🎓 Student Learning & Exam Platform</h3>
-      <p><a href="https://decent-classes.netlify.app/">Live Demo</a></p>
+    <td width="50%" valign="top">
+      <h4>🎓 Student Learning & Online Exam Platform</h4>
+      <p>A comprehensive examination and academic management portal with role-based access, real-time online tests, automated result computation, and student analytics.</p>
       <p>
-        Student Dashboard • Admin Dashboard • Online Exam • Result Analytics • Secure Auth
+        <a href="https://decent-classes.netlify.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-00C49F?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+        </a>
       </p>
-      <p><strong>Stack:</strong> React • Node • MongoDB • Firebase</p>
+      <p><strong>Stack:</strong> React • Node.js • Express • MongoDB • Firebase Auth</p>
     </td>
-    <td width="50%">
-      <h3>🏃 Vadodara Marathon Website</h3>
-      <p><a href="https://vadodaramarathon.netlify.app/">Live Demo</a></p>
+    <td width="50%" valign="top">
+      <h4>🏃 Vadodara Marathon Official Platform</h4>
+      <p>High-performance event landing page and participant registration hub with optimized asset loading, smooth mobile experience, and modern interactive sections.</p>
       <p>
-        Modern Landing UI • Registration Section • Responsive Design • Performance Optimized
+        <a href="https://vadodaramarathon.netlify.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
       </p>
-      <p><strong>Stack:</strong> React • Next.js • JavaScript</p>
+      <p><strong>Stack:</strong> React • Next.js • Tailwind CSS • Responsive UI</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrroy01-bit&show_icons=true&theme=github_dark&bg_color=0f172a&title_color=5eead4&icon_color=5eead4&text_color=e2e8f0" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy01-bit&theme=github-dark-blue&background=0f172a&ring=5eead4&fire=5eead4&currStreakLabel=5eead4&sideLabels=5eead4&sideNums=e2e8f0&currStreakNum=e2e8f0" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrroy-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy-dev&hide_border=true&background=0d1117&ring=2dd4bf&fire=38bdf8&currStreakLabel=2dd4bf&sideLabels=94a3b8&sideNums=e2e8f0&currStreakNum=2dd4bf" height="165" alt="GitHub Streak" />
+</div>
 
----
+<br/>
 
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrroy01-bit&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=5eead4&text_color=e2e8f0" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=94a3b8" alt="Top Languages" />
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrroy01-bit/mrroy01-bit/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mrroy-dev/mrroy-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
 
 ---
 
-<p align="center">
-  ⚡ Code. Build. Improve. Repeat.
-</p>
+<div align="center">
+  <sub>⚡ Designed with minimal aesthetics, dark mode precision, and clean telemetry.</sub>
+  <br/>
+  <sub>© 2026 Ritik Kumar • <a href="https://github.com/mrroy-dev">@mrroy-dev</a></sub>
+</div>
